@@ -3,4 +3,4 @@
 
 To execute algorithm run `Example.py`. You can find example dataset in folder `data` The example dataset is a set of buildings located in the historical center of Saint Petersburg
 
-Some examples of results   ![](https://github.com/ANANAS92/visibility-analysis/blob/master/analasis/example.jpg)
+Example of results   ![](https://github.com/ANANAS92/visibility-analysis/blob/master/analasis/example.jpg)
